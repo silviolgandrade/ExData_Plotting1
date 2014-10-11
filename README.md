@@ -1,12 +1,11 @@
 ## Introduction
 
 Johns Hopkins Data Science Course
-4th module - Exploratory Data Analysis
-Week 1 - Course Project 1 - october 2014
+4th module - Exploratory Data Analysis - Week 1 - Course Project 1 - october 2014
 
 by silviolgandrade
 
-https://github.com/silviolgandrade/
+https://github.com/silviolgandrade/ExData_Plotting1
 
 This git repo is a fork from the original by RDPeng.
 Preserved the original README.md from author.
