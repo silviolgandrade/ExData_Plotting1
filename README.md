@@ -12,6 +12,7 @@ This git repo is a fork from the original from RDPeng.
 Preserved the original README.md from author.
 Insite that file there are the full instructons for this assignment, as varianbles names, links to download the files, etc.
 
+# Inside each script file PlotX.R there are the detailed steps to process the data and plotting.
 
 ## My peer: load the data and make the plots
 
